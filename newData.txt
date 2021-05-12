@@ -2,3 +2,7 @@ Public Data source -
 
     data.gov.in
     data.gov.uk
+
+Census Data Source - 
+
+    https://censusindia.gov.in/
